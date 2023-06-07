@@ -1,0 +1,11 @@
+{
+  "name": "safeway-chrome-extension",
+  "version": "1.0.0",
+  "description": "get the safeway deals",
+  "main": "popup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raymond Berry",
+  "license": "ISC"
+}
